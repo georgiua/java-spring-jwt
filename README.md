@@ -1,2 +1,2 @@
 # java-spring-jwt
-Java Spring Boot with JWT and H2 database
+Java Spring Boot authentication / authorization with JWT, JPA and H2 database
